@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name: （要改的）名字
-  email: （要改的）邮箱
+  name: 林雯涵
+  email: 641064738@qq.com
   twitter: 
   google:
     ad-client:
     ad-slot:
-  bio: "（要改的）个人介绍"
+  bio: "中山大学南方学院-文学与传媒学院-网络与新媒体专业"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
