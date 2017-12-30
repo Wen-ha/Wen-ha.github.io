@@ -5,9 +5,18 @@
   excerpt: "网页设计的个人作品集"
   image: web.gif
   
-
+- title: 网页设计Notes
+  url: /webN/ 
+  excerpt: "网页设计的笔记"
+  image: webN.png
+  
 - title: 信息可视化作品集
   url: /infovis/ 
   excerpt: "信息可视化的个人作品集"
   image: xxksh.gif
+  
+- title: 信息可视化Notes
+  url: /xxkshN/ 
+  excerpt: "信息可视化的笔记"
+  image: xxkshN.png
   
