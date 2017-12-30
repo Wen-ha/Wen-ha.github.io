@@ -12,29 +12,35 @@ $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
 
-$doc-font-size               	: 16;
-$doc-line-height             	: 24;
+$doc-font-size               	: 18;
+$doc-line-height             	: 26;
 
 $border-radius               	: 3px;
 
 /*
    Color variables
+   Background : seagreen #2e8b57  http://encycolorpedia.cn/2e8b57
+   Gray-blue #8c92ac
+   text-color: white
    ========================================================================== */
 
-$white                        : #fff;
+$white                        : #fff; 
 $black                        : #000;
+$seagreen                     : #2e8b57;
+$Gray-blue                    : #8c92ac;
+$lemon                        : #fff700;
 
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #343434;
+$base-color                  	: $seagreen;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $black;
+$primary-color               	: $seagreen;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -80,15 +86,15 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
-$sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
-$sliding-menu-color-hover	 	   : $white;
+$sliding-menu-border-color	 	   : $seagreen;
+$sliding-menu-background 		   : $seagreen;
+$sliding-menu-color 	 		   : $white;
+$sliding-menu-background-hover     : $seagreen;
+$sliding-menu-color-hover	 	   : $Gray-blue;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
-$button-size		         	     : 30px;
-$transition						         : 0.3s; // increase this to see the transformations in slow-motion
-$sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
+$button-size		         	   : 30px;
+$transition						   : 0.3s; // increase this to see the transformations in slow-motion
+$sliding-menu-animation            : all 500ms cubic-bezier(.86,.01,.77,.78);
 
 /*
    Badge variables
