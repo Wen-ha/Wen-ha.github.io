@@ -4,10 +4,10 @@
  categories: p osts rwd
 ---
 
-<div class="tiles">
+<div class="webde">
 {% for webN in site.webN %}
 	{% include webN-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div><!-- /.webde -->
 
 
