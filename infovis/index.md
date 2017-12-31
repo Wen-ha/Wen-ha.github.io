@@ -1,5 +1,5 @@
 ---
 layout: default
-title:  "博客文章介绍"
+title:  "信息可视化作品集"
 categories: portfolio
 ---
