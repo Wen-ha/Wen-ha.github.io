@@ -5,7 +5,9 @@
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
+{% for webN in site.webN %}
+	{% include webN-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+
