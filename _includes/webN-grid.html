@@ -1,7 +1,0 @@
-<article class="webde" itemscope itemtype="http://schema.org/Article">
-  <a href="{{ site.url }}{{ webN.url }}" title="{{ webN.title }}" class="webN-teaser">{% if webN.image.teaser %}<img src="{{ site.url }}/images/{{webN.image.teaser }}" alt="teaser" itemprop="image">
-    {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
-  {% if webN.date %}<p class="entry-date date published"><time datetime="{{ webN.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ webN.date | date: "%B %d, %Y" }}</time></p>{% endif %}
-  <h2 class="webN-title" itemprop="name"><a href="{{ site.url }}{{ webN.url }}">{{ webN.title }}</a></h2>
-  <p class="webN-excerpt" itemprop="description">{{ webN.excerpt | strip_html | truncate: 160 }}</p>
-</article><!-- /.webde -->

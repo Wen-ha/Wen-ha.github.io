@@ -1,13 +1,12 @@
 ---
- layout: default
+ layout: archive
  title:  "网页设计笔记"
  categories: p osts rwd
 ---
 
-<div class="webde">
-{% for webN in site.webN %}
-	{% include webN-grid.html %}
-{% endfor %}
-</div><!-- /.webde -->
 
-
+<div class="tiles">
+{% for post in site.w %}
+  {% include post-grid.html %}
+ {% endfor %}
+ </div><!-- /.tiles w-->
