@@ -5,7 +5,7 @@
 ---
 
 <div class="tiles">
-{% for post in site.categories.%}
+{% for post in site.categories.p osts rwd%}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div><!-- /.tiles 把所有categories 有 p osts rwd 的列出来---->
