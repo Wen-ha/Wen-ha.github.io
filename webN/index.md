@@ -6,7 +6,7 @@
 
 
 <div class="tiles">
-{% for post in site.w %}
+{% for post in site.categories.web %}
   {% include post-grid.html %}
  {% endfor %}
- </div><!-- /.tiles w-->
+ </div><!-- /.tiles把所有categories 有 web 的列出来-->
