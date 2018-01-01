@@ -1,11 +1,11 @@
 ---
  layout: archive
  title:  "网页设计笔记"
- categories: posts rwd
+ categories: postsrwd
 ---
 
 <div class="tiles">
-{% for post in site.categories.posts rwd %}
+{% for post in site.categories.postsrwd %}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 posts rwd 的列出来---->
+</div><!-- /.tiles 把所有categories 有 postsrwd 的列出来---->
