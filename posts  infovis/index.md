@@ -2,6 +2,8 @@
  layout: archive
  title:  "信息可视化笔记"
  categories: postsinfovis
+image:
+   feature: xxkshN1.png
 ---
 
 <div class="tiles">
