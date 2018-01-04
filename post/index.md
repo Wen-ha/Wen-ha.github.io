@@ -1,7 +1,7 @@
 ---
  layout: archive
  title:  "笔记"
- categories: posts
+ tags: []
 image:
    teaser:
    feature:
