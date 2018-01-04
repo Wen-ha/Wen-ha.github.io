@@ -2,9 +2,7 @@
  layout: archive
  title:  "信息可视化笔记"
  categories: postsinfovis
-image:
-   teaser: xxkshN1.png
-   feature: xxkshN1.png
+
 ---
 
 <div class="tiles">
