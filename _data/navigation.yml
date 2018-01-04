@@ -3,20 +3,20 @@
 - title: 网页设计作品集
   url: /portfolio/ 
   excerpt: "网页设计的个人作品集"
-  image: web.gif
+  image: web作品.gif
   
 - title: 网页设计Notes
   url: /posts rwd/ 
   excerpt: "网页设计的笔记"
-  image: webN.png
+  image: web笔记.png
   
 - title: 信息可视化作品集
   url: /infovis/ 
   excerpt: "信息可视化的个人作品集"
-  image: xxksh.gif
+  image: 信息可视化作品.gif
   
 - title: 信息可视化Notes
   url: /posts  infovis/ 
   excerpt: "信息可视化的笔记"
-  image: xxkshN.png
+  image: 信息可视化笔记.png
   
