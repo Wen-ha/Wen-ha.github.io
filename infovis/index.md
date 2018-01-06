@@ -1,7 +1,7 @@
 ---
-layout: default
-title:  "信息可视化作品集"
-categories: infovis
+ layout: default
+ title:  "信息可视化作品集"
+ categories: infovis
 ---
 
 <div class="tiles">
