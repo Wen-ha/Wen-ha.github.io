@@ -1,5 +1,5 @@
 ---
- layout: default
+ layout: archive
  title:  "网页设计作品集"
  categories: portfolio
 ---
