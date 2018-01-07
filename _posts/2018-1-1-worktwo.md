@@ -1,12 +1,15 @@
 ---
 layout: article
-title:  "可视化作品NO.1"
+title:  "可视化作品NO.2"
 categories: infovis
 image:
-   teaser: xinxikeshihuaworks1.png
-   feature: xinxikeshihuaworks1.png
+   teaser: xinxikeshihuaworks2.png
+   feature: xinxikeshihuaworks2.png
 date: 2018-1-1 10:40:22 +0800  
 ---
+
+
+
 
 ## 符号地图：
 ### 关于全国各省服务类场所的分布情况
@@ -25,7 +28,7 @@ date: 2018-1-1 10:40:22 +0800
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);
  </script>
- ## 文本表：
+## 文本表：
 ### 关于全国各省服务类场所的数量情况
 <div class='tableauPlaceholder' id='viz1514810300836' style='position: relative'><noscript><a href='#'>
 <img alt='各服务类在全国各省的数量情况 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_18035&#47;2&#47;1_rss.png' style='border: none' /></a>
