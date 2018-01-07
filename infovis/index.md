@@ -3,7 +3,8 @@
  title:  "信息可视化作品集"
  categories: infovis
 ---
-![imgae](https://Wen-ha.github.io/images/xxksh.png)
+<a href="https://public.tableau.com/views/_18080/2_2?:embed=y&:display_count=yes" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a51dae1bd0a2.png)</a>
+
 
 <div class="tiles">
 {% for post in site.categories.infovis %}
