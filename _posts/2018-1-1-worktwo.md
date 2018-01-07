@@ -7,9 +7,8 @@ image:
    feature: xinxikeshihuaworks2.png
 date: 2018-1-1 10:40:22 +0800  
 ---
-
-
-
+研究全国各省服务类场所分布与数量情况
+{% include toc.html %}
 
 ## 符号地图：
 ### 关于全国各省服务类场所的分布情况
